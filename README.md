@@ -17,7 +17,7 @@ This is your **Python playground**—a place to learn, mess up, fix things, and 
 🔥 **Bonus Challenges** – Because learning should be spicy. 🌶  
 
 ## 🎮 How to Use This Repo  
-1. **Clone it!**(`git clone https://github.com/yourusername/python-playpen.git`)  
+1. **Clone it!**(`https://github.com/Avila-Princy-M01/Basic-Python-Codes-Beginner-?tab=readme-ov-file#basic-python-codes-beginner-`)  
 2. **Pick a file and start coding like a boss.**  
 3. **Break something.**  
 4. **Fix it.** (This is where the learning happens 😉)  
